@@ -1,0 +1,4 @@
+com\javatechie\spring\mongo\api\model\Employee.class
+com\javatechie\spring\mongo\api\SpringMongodbApplication.class
+com\javatechie\spring\mongo\api\repository\EmployeeRepository.class
+com\javatechie\spring\mongo\api\resource\EmployeeController.class
